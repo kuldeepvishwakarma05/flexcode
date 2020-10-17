@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/flexcode/static/css/main.89e738f3.chunk.css",
+    "main.css": "/flexcode/static/css/main.1d491efe.chunk.css",
     "main.js": "/flexcode/static/js/main.9acc4d07.chunk.js",
     "main.js.map": "/flexcode/static/js/main.9acc4d07.chunk.js.map",
     "runtime-main.js": "/flexcode/static/js/runtime-main.72a28a9d.js",
@@ -9,10 +9,10 @@
     "static/js/2.548a411a.chunk.js": "/flexcode/static/js/2.548a411a.chunk.js",
     "static/js/2.548a411a.chunk.js.map": "/flexcode/static/js/2.548a411a.chunk.js.map",
     "index.html": "/flexcode/index.html",
-    "precache-manifest.218c7a0284529bbb157e52de79bb05e8.js": "/flexcode/precache-manifest.218c7a0284529bbb157e52de79bb05e8.js",
+    "precache-manifest.96442b75406e5a11d8f4e0b14a3421fa.js": "/flexcode/precache-manifest.96442b75406e5a11d8f4e0b14a3421fa.js",
     "service-worker.js": "/flexcode/service-worker.js",
     "static/css/2.974c742c.chunk.css.map": "/flexcode/static/css/2.974c742c.chunk.css.map",
-    "static/css/main.89e738f3.chunk.css.map": "/flexcode/static/css/main.89e738f3.chunk.css.map",
+    "static/css/main.1d491efe.chunk.css.map": "/flexcode/static/css/main.1d491efe.chunk.css.map",
     "static/js/2.548a411a.chunk.js.LICENSE.txt": "/flexcode/static/js/2.548a411a.chunk.js.LICENSE.txt",
     "static/media/25528.jpg": "/flexcode/static/media/25528.79fc221e.jpg",
     "static/media/card.PNG": "/flexcode/static/media/card.3125ca4d.PNG",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.72a28a9d.js",
     "static/css/2.974c742c.chunk.css",
     "static/js/2.548a411a.chunk.js",
-    "static/css/main.89e738f3.chunk.css",
+    "static/css/main.1d491efe.chunk.css",
     "static/js/main.9acc4d07.chunk.js"
   ]
 }
